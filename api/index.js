@@ -74,4 +74,3 @@ if (process.env['SQLITE_S3_BUCKET']) {
     // Register the sqlite serverlesswp plugin.
     serverlesswp.registerPlugin(sqliteS3);
 }
-
